@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="arraysstringshashtables" />
+        <module name="graph-search" />
+        <module name="extra" />
+        <module name="binary-tree" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="binarysearch" target="17" />
+      <module name="bitmanipulation" target="17" />
+      <module name="codesamples" target="17" />
+      <module name="dp" target="17" />
+      <module name="linked-list" target="17" />
+      <module name="min-heap" target="17" />
+      <module name="sorting" target="17" />
+      <module name="stack-queue" target="17" />
+      <module name="tries" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,6 +1,6 @@
 package com.danielblanco.algoritmosestructuras.arraysstringshashtables._03_group_anagrams;
 
-import java.util.List;
+import java.util.*;
 
 /*
  * Un anagrama es una palabra creada a partir de la reordenación de las letras de otra palabra. Ej: saco - caso
@@ -13,6 +13,28 @@ import java.util.List;
 public class GroupAnagrams {
 
   public List<List<String>> groupAnagrams(String[] words) {
-    throw new UnsupportedOperationException("Not implemented yet");
+
+    if(words == null || words.length == 0) return Collections.emptyList();
+
+    Map<String, List<String>> groupedAnagrams = groupedAnagrams( words );
+    return new ArrayList<>( groupedAnagrams.values( ) );
+  }
+
+  private Map<String, List<String>> groupedAnagrams(String[] words) {
+    Map<String, List<String>> groupedAnagrams = new HashMap<>(  );
+    for (String s: words) {
+      String key = generateKey( s );
+      if(!groupedAnagrams.containsKey( key )) {
+        groupedAnagrams.put( key, new ArrayList<>() );
+      }
+      groupedAnagrams.get( key ).add( s );
+    }
+    return groupedAnagrams;
+  }
+
+  private static String generateKey( String s ) {
+    String[] split = s.split( "" );
+    Arrays.sort( split );
+    return Arrays.toString( split );
   }
 }

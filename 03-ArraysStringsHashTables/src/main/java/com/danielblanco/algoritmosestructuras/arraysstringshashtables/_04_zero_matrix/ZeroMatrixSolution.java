@@ -15,7 +15,7 @@ package com.danielblanco.algoritmosestructuras.arraysstringshashtables._04_zero_
  *          0 0 0 0 0
  *          9 0 4 0 9
  */
-public class ZeroMatrixSolution {
+public class  ZeroMatrixSolution {
 
   public void zeroMatrix(int[][] matrix) {
     boolean firstRowHasZero = hasFirstRowAnyZeroes(matrix);
