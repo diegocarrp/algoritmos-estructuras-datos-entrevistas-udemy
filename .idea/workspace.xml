@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e72e899-d382-44ff-b000-382c61083cbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-ArraysStringsHashTables/src/main/java/com/danielblanco/algoritmosestructuras/arraysstringshashtables/_01_is_unique/IsUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-ArraysStringsHashTables/src/main/java/com/danielblanco/algoritmosestructuras/arraysstringshashtables/_01_is_unique/IsUnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-ArraysStringsHashTables/src/main/java/com/danielblanco/algoritmosestructuras/arraysstringshashtables/_02_two_sum/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-ArraysStringsHashTables/src/main/java/com/danielblanco/algoritmosestructuras/arraysstringshashtables/_02_two_sum/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-ArraysStringsHashTables/src/main/java/com/danielblanco/algoritmosestructuras/arraysstringshashtables/_03_group_anagrams/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-ArraysStringsHashTables/src/main/java/com/danielblanco/algoritmosestructuras/arraysstringshashtables/_03_group_anagrams/GroupAnagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03-ArraysStringsHashTables/src/main/java/com/danielblanco/algoritmosestructuras/arraysstringshashtables/_04_zero_matrix/ZeroMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-ArraysStringsHashTables/src/main/java/com/danielblanco/algoritmosestructuras/arraysstringshashtables/_04_zero_matrix/ZeroMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-ArraysStringsHashTables/src/main/java/com/danielblanco/algoritmosestructuras/arraysstringshashtables/_04_zero_matrix/ZeroMatrixSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-ArraysStringsHashTables/src/main/java/com/danielblanco/algoritmosestructuras/arraysstringshashtables/_04_zero_matrix/ZeroMatrixSolution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691467472596</updated>
       <workItem from="1691467474338" duration="3181000" />
-      <workItem from="1691679076292" duration="5302000" />
+      <workItem from="1691679076292" duration="5406000" />
     </task>
     <servers />
   </component>
