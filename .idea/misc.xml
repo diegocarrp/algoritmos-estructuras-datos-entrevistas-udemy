@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/06-Trees/pom.xml" />
         <option value="$PROJECT_DIR$/07-Graphs/pom.xml" />
         <option value="$PROJECT_DIR$/03-ArraysStringsHashTables/pom.xml" />
+        <option value="$PROJECT_DIR$/04-LinkedLists/pom.xml" />
+        <option value="$PROJECT_DIR$/05-StacksQueues/pom.xml" />
       </list>
     </option>
   </component>

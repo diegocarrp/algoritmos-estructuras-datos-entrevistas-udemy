@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="arraysstringshashtables" />
-        <module name="graph-search" />
-        <module name="extra" />
         <module name="binary-tree" />
+        <module name="graph-search" />
+        <module name="linked-list" />
+        <module name="stack-queue" />
+        <module name="extra" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,10 +19,8 @@
       <module name="bitmanipulation" target="17" />
       <module name="codesamples" target="17" />
       <module name="dp" target="17" />
-      <module name="linked-list" target="17" />
       <module name="min-heap" target="17" />
       <module name="sorting" target="17" />
-      <module name="stack-queue" target="17" />
       <module name="tries" target="17" />
     </bytecodeTargetLevel>
   </component>

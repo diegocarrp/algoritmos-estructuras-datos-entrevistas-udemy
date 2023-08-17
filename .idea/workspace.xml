@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e72e899-d382-44ff-b000-382c61083cbe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/03-ArraysStringsHashTables/src/main/java/com/danielblanco/algoritmosestructuras/arraysstringshashtables/_04_zero_matrix/ZeroMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-ArraysStringsHashTables/src/main/java/com/danielblanco/algoritmosestructuras/arraysstringshashtables/_04_zero_matrix/ZeroMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_01_remove_dups/RemoveDups.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_01_remove_dups/RemoveDups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_02_merge__two_sorted_lists/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_02_merge__two_sorted_lists/MergeTwoSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_03_nth_node_to_last/NthNodeToLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_03_nth_node_to_last/NthNodeToLast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_04_add_two_numbers/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_04_add_two_numbers/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_05_swap_nodes_in_pairs/SwapNodesInPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_05_swap_nodes_in_pairs/SwapNodesInPairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,95 +37,96 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Devs/Diego/Java/algoritmos-estructuras-datos-entrevistas-udemy/03-ArraysStringsHashTables/pom.xml&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Devs/Diego/Java/algoritmos-estructuras-datos-entrevistas-udemy/05-StacksQueues/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.ZeroMatrixTest.zeroMatrixTest">
-    <configuration name="GroupAnagramsTest.groupAnagramsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="arraysstringshashtables" />
+}]]></component>
+  <component name="RunManager" selected="JUnit.SwapNodesInPairsTest.addTwoNumbersTest">
+    <configuration name="AddTwoNumbersTest.addTwoNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="linked-list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._03_group_anagrams.*" />
+          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras._04_add_two_numbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._03_group_anagrams" />
-      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._03_group_anagrams.GroupAnagramsTest" />
-      <option name="METHOD_NAME" value="groupAnagramsTest" />
+      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras._04_add_two_numbers" />
+      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras._04_add_two_numbers.AddTwoNumbersTest" />
+      <option name="METHOD_NAME" value="addTwoNumbersTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsUniqueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="arraysstringshashtables" />
+    <configuration name="MergeTwoSortedListsTest.mergeTwoSortedListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="linked-list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._01_is_unique.*" />
+          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras._02_merge__two_sorted_lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._01_is_unique" />
-      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._01_is_unique.IsUniqueTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsUniqueTest.isUniqueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="arraysstringshashtables" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._01_is_unique.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._01_is_unique" />
-      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._01_is_unique.IsUniqueTest" />
-      <option name="METHOD_NAME" value="isUniqueTest" />
+      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras._02_merge__two_sorted_lists" />
+      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras._02_merge__two_sorted_lists.MergeTwoSortedListsTest" />
+      <option name="METHOD_NAME" value="mergeTwoSortedListsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumTest.twoSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="arraysstringshashtables" />
+    <configuration name="NthNodeToLastTest.nthNodeToLastTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="linked-list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._02_two_sum.*" />
+          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras._03_nth_node_to_last.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._02_two_sum" />
-      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._02_two_sum.TwoSumTest" />
-      <option name="METHOD_NAME" value="twoSumTest" />
+      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras._03_nth_node_to_last" />
+      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras._03_nth_node_to_last.NthNodeToLastTest" />
+      <option name="METHOD_NAME" value="nthNodeToLastTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZeroMatrixTest.zeroMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="arraysstringshashtables" />
+    <configuration name="RemoveDupsTest.removeDupsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="linked-list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._04_zero_matrix.*" />
+          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras._01_remove_dups.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._04_zero_matrix" />
-      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras.arraysstringshashtables._04_zero_matrix.ZeroMatrixTest" />
-      <option name="METHOD_NAME" value="zeroMatrixTest" />
+      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras._01_remove_dups" />
+      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras._01_remove_dups.RemoveDupsTest" />
+      <option name="METHOD_NAME" value="removeDupsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapNodesInPairsTest.addTwoNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="linked-list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras._05_swap_nodes_in_pairs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras._05_swap_nodes_in_pairs" />
+      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras._05_swap_nodes_in_pairs.SwapNodesInPairsTest" />
+      <option name="METHOD_NAME" value="addTwoNumbersTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ZeroMatrixTest.zeroMatrixTest" />
-        <item itemvalue="JUnit.GroupAnagramsTest.groupAnagramsTest" />
-        <item itemvalue="JUnit.TwoSumTest.twoSumTest" />
-        <item itemvalue="JUnit.IsUniqueTest.isUniqueTest" />
-        <item itemvalue="JUnit.IsUniqueTest" />
+        <item itemvalue="JUnit.SwapNodesInPairsTest.addTwoNumbersTest" />
+        <item itemvalue="JUnit.AddTwoNumbersTest.addTwoNumbersTest" />
+        <item itemvalue="JUnit.NthNodeToLastTest.nthNodeToLastTest" />
+        <item itemvalue="JUnit.MergeTwoSortedListsTest.mergeTwoSortedListsTest" />
+        <item itemvalue="JUnit.RemoveDupsTest.removeDupsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +151,8 @@
       <option name="presentableId" value="Default" />
       <updated>1691467472596</updated>
       <workItem from="1691467474338" duration="3181000" />
-      <workItem from="1691679076292" duration="5406000" />
+      <workItem from="1691679076292" duration="11675000" />
+      <workItem from="1692202674551" duration="3950000" />
     </task>
     <servers />
   </component>
