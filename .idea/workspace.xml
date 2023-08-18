@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e72e899-d382-44ff-b000-382c61083cbe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_01_remove_dups/RemoveDups.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_01_remove_dups/RemoveDups.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_02_merge__two_sorted_lists/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_02_merge__two_sorted_lists/MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_03_nth_node_to_last/NthNodeToLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_03_nth_node_to_last/NthNodeToLast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_04_add_two_numbers/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_04_add_two_numbers/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_05_swap_nodes_in_pairs/SwapNodesInPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-LinkedLists/src/main/java/com/danielblanco/algoritmosestructuras/_05_swap_nodes_in_pairs/SwapNodesInPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-StacksQueues/src/main/java/com/danielblanco/algoritmosestructuras/_01_queue_with_stacks/QueueWithStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/05-StacksQueues/src/main/java/com/danielblanco/algoritmosestructuras/_01_queue_with_stacks/QueueWithStacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-StacksQueues/src/main/java/com/danielblanco/algoritmosestructuras/_02_valid_parenthesis/ValidParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/05-StacksQueues/src/main/java/com/danielblanco/algoritmosestructuras/_02_valid_parenthesis/ValidParenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-StacksQueues/src/main/java/com/danielblanco/algoritmosestructuras/_03_sort_stack/SortStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/05-StacksQueues/src/main/java/com/danielblanco/algoritmosestructuras/_03_sort_stack/SortStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-StacksQueues/src/main/java/com/danielblanco/algoritmosestructuras/_04_stack_min/StackMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/05-StacksQueues/src/main/java/com/danielblanco/algoritmosestructuras/_04_stack_min/StackMin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,66 +48,50 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.SwapNodesInPairsTest.addTwoNumbersTest">
-    <configuration name="AddTwoNumbersTest.addTwoNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="linked-list" />
+  <component name="RunManager" selected="JUnit.StackMinTest.stackMinTest">
+    <configuration name="QueueWithStacksTest.queueWithStacksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stack-queue" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras._04_add_two_numbers.*" />
+          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras._01_queue_with_stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras._04_add_two_numbers" />
-      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras._04_add_two_numbers.AddTwoNumbersTest" />
-      <option name="METHOD_NAME" value="addTwoNumbersTest" />
+      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras._01_queue_with_stacks" />
+      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras._01_queue_with_stacks.QueueWithStacksTest" />
+      <option name="METHOD_NAME" value="queueWithStacksTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedListsTest.mergeTwoSortedListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="linked-list" />
+    <configuration name="SortStackTest.sortStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stack-queue" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras._02_merge__two_sorted_lists.*" />
+          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras._03_sort_stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras._02_merge__two_sorted_lists" />
-      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras._02_merge__two_sorted_lists.MergeTwoSortedListsTest" />
-      <option name="METHOD_NAME" value="mergeTwoSortedListsTest" />
+      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras._03_sort_stack" />
+      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras._03_sort_stack.SortStackTest" />
+      <option name="METHOD_NAME" value="sortStackTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthNodeToLastTest.nthNodeToLastTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="linked-list" />
+    <configuration name="StackMinTest.stackMinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stack-queue" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras._03_nth_node_to_last.*" />
+          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras._04_stack_min.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras._03_nth_node_to_last" />
-      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras._03_nth_node_to_last.NthNodeToLastTest" />
-      <option name="METHOD_NAME" value="nthNodeToLastTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDupsTest.removeDupsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="linked-list" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras._01_remove_dups.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras._01_remove_dups" />
-      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras._01_remove_dups.RemoveDupsTest" />
-      <option name="METHOD_NAME" value="removeDupsTest" />
+      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras._04_stack_min" />
+      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras._04_stack_min.StackMinTest" />
+      <option name="METHOD_NAME" value="stackMinTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,13 +113,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidParenthesisTest.queueWithStacksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stack-queue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.danielblanco.algoritmosestructuras._02_valid_parenthesis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.danielblanco.algoritmosestructuras._02_valid_parenthesis" />
+      <option name="MAIN_CLASS_NAME" value="com.danielblanco.algoritmosestructuras._02_valid_parenthesis.ValidParenthesisTest" />
+      <option name="METHOD_NAME" value="queueWithStacksTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StackMinTest.stackMinTest" />
+        <item itemvalue="JUnit.SortStackTest.sortStackTest" />
+        <item itemvalue="JUnit.ValidParenthesisTest.queueWithStacksTest" />
+        <item itemvalue="JUnit.QueueWithStacksTest.queueWithStacksTest" />
         <item itemvalue="JUnit.SwapNodesInPairsTest.addTwoNumbersTest" />
-        <item itemvalue="JUnit.AddTwoNumbersTest.addTwoNumbersTest" />
-        <item itemvalue="JUnit.NthNodeToLastTest.nthNodeToLastTest" />
-        <item itemvalue="JUnit.MergeTwoSortedListsTest.mergeTwoSortedListsTest" />
-        <item itemvalue="JUnit.RemoveDupsTest.removeDupsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +149,7 @@
       <updated>1691467472596</updated>
       <workItem from="1691467474338" duration="3181000" />
       <workItem from="1691679076292" duration="11675000" />
-      <workItem from="1692202674551" duration="3950000" />
+      <workItem from="1692202674551" duration="11634000" />
     </task>
     <servers />
   </component>

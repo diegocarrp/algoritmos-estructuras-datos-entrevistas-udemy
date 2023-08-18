@@ -13,28 +13,45 @@ import java.util.Deque;
  * no tiene demasiado sentido, y por ser una clase específica y no una interfaz. Si quieres saber más sobre
  * este tema puedes acceder al siguiente enlace:
  * https://stackoverflow.com/questions/12524826/why-should-i-use-deque-over-stack
+ *
+ * 5 4
+ * 2 3
  */
 public class QueueWithStacks {
-  Deque<Integer> firstStack = new ArrayDeque<>();
-  Deque<Integer> secondStack = new ArrayDeque<>();
+    Deque<Integer> firstStack  = new ArrayDeque<>( );
+    Deque<Integer> secondStack = new ArrayDeque<>( );
 
-  public void add(Integer value) {
-    throw new UnsupportedOperationException("Not implemented yet");
-  }
+    private void changeStacks() {
+        if(secondStack.isEmpty()) {
+            while (!firstStack.isEmpty()) {
+                secondStack.push( firstStack.pop() );
+            }
+        }
+    }
 
-  public Integer peek() {
-    throw new UnsupportedOperationException("Not implemented yet");
-  }
+    public void add( Integer value ) {
+        firstStack.push( value );
+    }
 
-  public Integer remove() {
-    throw new UnsupportedOperationException("Not implemented yet");
-  }
+    public Integer peek( ) {
+        if(secondStack.isEmpty()) {
+            changeStacks();
+        }
+        return secondStack.peek();
+    }
 
-  public boolean isEmpty() {
-    throw new UnsupportedOperationException("Not implemented yet");
-  }
+    public Integer remove( ) {
+        if(secondStack.isEmpty()) {
+            changeStacks();
+        }
+        return secondStack.pop();
+    }
 
-  public int size() {
-    throw new UnsupportedOperationException("Not implemented yet");
-  }
+    public boolean isEmpty( ) {
+        return size() == 0;
+    }
+
+    public int size( ) {
+        return firstStack.size( ) + secondStack.size();
+    }
 }
